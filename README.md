@@ -27,7 +27,7 @@ To run this project, install the dependencies using the following command:
 pip install -r requirements.txt
 ## Instructions for Running the Code
 - Clone this repository:
-git clone https://github.com/your-username/fashion-mnist-classification.git
+git clone [https://github.com/RowanReda/Fashion-MNIST-Classification-with-ANN.git]
 - Navigate to the project directory:
 cd fashion-mnist-classification
 - Install the required libraries:
