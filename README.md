@@ -15,6 +15,11 @@ The Fashion MNIST dataset consists of 70,000 grayscale images in 10 categories, 
 - Sneaker
 - Bag
 - Ankle boot
+## Dataset Sample
+ Sample of images from the Fashion MNIST dataset:
+
+![Sample Fashion MNIST Image](images/fashion_mnist_sample.png)
+
 
 ## Project Structure
 - `fashion_mnist_classification.ipynb`: Main Jupyter Notebook containing the code for data loading, preprocessing, model creation, training, evaluation, and visualization.
@@ -27,13 +32,13 @@ To run this project, install the dependencies using the following command:
 pip install -r requirements.txt
 ## Instructions for Running the Code
 - Clone this repository:
-git clone [https://github.com/RowanReda/Fashion-MNIST-Classification-with-ANN.git]
+git clone https://github.com/RowanReda/Fashion-MNIST-Classification-with-ANN.git
 - Navigate to the project directory:
 cd fashion-mnist-classification
 - Install the required libraries:
 pip install -r requirements.txt
 - Launch the Jupyter Notebook:
-jupyter notebook fashion_mnist_classification.ipynb
+jupyter notebook Face_Pins_ANN_ONLY.ipynb
 - Run each cell in the notebook to train the model, evaluate its performance, and visualize the results.
 
 ## Model Architecture
