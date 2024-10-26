@@ -18,7 +18,7 @@ The Fashion MNIST dataset consists of 70,000 grayscale images in 10 categories, 
 ## Dataset Sample
  Sample of images from the Fashion MNIST dataset:
 
-![Sample Fashion MNIST Image](fig5.jpg)
+![Sample Fashion MNIST Image](/fig5.jpg)
 
 
 ## Project Structure
