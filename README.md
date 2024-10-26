@@ -49,6 +49,9 @@ The model consists of:
 
 ## Expected Results
 The model is expected to achieve an accuracy of around 89% on the test dataset. You’ll also see visualizations of:
+
+![- Classification Report](https://github.com/RowanReda/Fashion-MNIST-Classification-with-ANN/blob/main/fig1.JPG)
+
 - Training and validation loss curves
 - Confusion matrix
 - Classification report (Precision, Recall, F1-Score) for each category
